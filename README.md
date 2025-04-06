@@ -1,7 +1,7 @@
 # ContentSpark
 
 ## Description
-Develop a Python program called ContentSpark that scrapes trending topics from Google Trends or Twitter, combines them with user niches, and suggests content ideas
+ContentSpark scrapes trending topics from Google Trends or Twitter, combines them with user niches, and suggests content ideas
 
 ## Author
 Encrypter15
